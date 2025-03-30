@@ -23,7 +23,6 @@ export default function RootLayout({
               <a href="#comics" className="hover:text-gray-200">Comics</a>
               <a href="#news" className="hover:text-gray-200">News</a>
             </nav>
-            <button className="bg-white text-red-600 px-4 py-2 rounded">Login</button>
           </div>
         </header>
         <main>
