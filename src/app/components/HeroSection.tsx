@@ -2,7 +2,7 @@ export default function HeroSection() {
   return (
     <section className="relative overflow-hidden bg-gray-900 text-white">
       <div className="absolute inset-0 bg-cover bg-center opacity-40"
-        style={{ backgroundImage: '' }}>
+        style={{ backgroundImage: `url ('https://srdevtest1.wpenginepowered.com/wp-content/uploads/2025/03/spiddy-scaled.webp')` }}>
       </div>
       <div className="absolute inset-0 bg-gradient-to-r from-gray-900 to-transparent"></div>
 
